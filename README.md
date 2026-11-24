@@ -64,6 +64,13 @@ The hosted runtime is the source of truth for tool names and schemas.
 - LeadJourney hosts the server itself; this plugin does not wrap a local stdio server.
 - Revoke access at any time in LeadJourney under **Atlas settings → MCP → Connected applications**.
 
+## Privacy and terms
+
+The plugin sends your requests to LeadJourney's MCP server, which answers them from your LeadJourney workspace. How LeadJourney handles that data is set out in its privacy policy.
+
+- Privacy policy: https://leadjourney.io/privacy-policy/
+- Terms and conditions: https://leadjourney.io/terms-conditions
+
 ## Docs
 
 - Website: https://leadjourney.io
