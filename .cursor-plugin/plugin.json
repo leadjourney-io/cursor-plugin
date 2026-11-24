@@ -1,0 +1,32 @@
+{
+  "name": "leadjourney",
+  "displayName": "LeadJourney",
+  "version": "1.0.0",
+  "description": "Ask which ads, campaigns and channels bring leads and revenue, and set up tracking.",
+  "author": {
+    "name": "LeadJourney",
+    "email": "hello@leadjourney.io"
+  },
+  "homepage": "https://leadjourney.io",
+  "repository": "https://github.com/leadjourney-io/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "leadjourney",
+    "attribution",
+    "marketing",
+    "ads",
+    "leads",
+    "revenue",
+    "utm",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "leadjourney",
+    "attribution",
+    "marketing",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}

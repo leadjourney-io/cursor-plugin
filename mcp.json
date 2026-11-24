@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "leadjourney": {
+      "type": "http",
+      "url": "https://api.leadjourney.io/mcp"
+    }
+  }
+}
